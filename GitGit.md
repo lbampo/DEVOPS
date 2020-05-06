@@ -11,14 +11,14 @@
 
 * Additional Git commands
 
--- git remote 
+-- **git remote** 
     Utility : To check what remote/source you have or add a new remote.
     How to : git remote to check and list. And git remote add <:remote_url:>
 
--- git stash
+-- **git stash**
     Utility : Save changes that you don’t want to commit immediately.
     How to : git stash in your working directory. git stash apply if you want to bring your saved changes back.
 
--- git config
+-- **git config**
     Utility : To set your user name and email in the main configuration file.
     How to : To check your name and email type in git config --global user.name and git config --global user.email. And to set your new email or name git config --global user.name = “Dhruv Nenwani” and git config --global user.email = “lbreezy@hotmail.com”
