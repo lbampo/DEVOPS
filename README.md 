@@ -1,22 +1,26 @@
 # DevOps Requirements 
 
-* Good understanding of Operating System (Linux, Microsoft, Apple IOS, Google)
+    * Deep Understanding of DevOps 
+    
+    * Understanding of Agile Methodologies and how they work
 
-* Understanding of network protocols 
+    * Good understanding of Operating System (Linux, Microsoft, Apple IOS, Google)
 
-* Understanding of version control tool (Git)
+    * Understanding of network protocols 
 
-* Understanding of Configurtation Management (Puppet, Chef, SALTSTACK , Ansible, SolarWinds, CFEngine)
+    * Understanding of version control tool (Git)
 
-* Understanding of container technologies (Docker, Kubernetes)
+    * Understanding of Configurtation Management (Puppet, Chef, SALTSTACK , Ansible, SolarWinds, CFEngine)
 
-* Infrastructure Knowledge AWS/ VMWARE
+    * Understanding of container technologies (Docker, Kubernetes)
 
-* Knowledge of Coding (Python/ Java/ CSharp)
+    * Infrastructure Knowledge AWS/ VMWARE
 
-* Knowledge of shell scripting (Powershell/ Javascript)
+    * Knowledge of Coding (Python/ Java/ CSharp)
 
-* Knowledge of different types of databases and different sql commands
+    * Knowledge of shell scripting (Powershell/ Javascript)
+
+    * Knowledge of different types of databases and different sql commands
 
 --------------------------------------------
 # Dev-Ops Engineer Tools 
